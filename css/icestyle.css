@@ -1,0 +1,190 @@
+body{
+	background-color:#ffffff;
+
+}
+
+
+
+
+
+h1.title
+{
+    font-family:"Times New Roman";
+	font-size:50px;
+	text-align:left;
+	color:#5F9EA0;
+	margin-top:-80px;
+	margin-left:100px;
+	
+}
+
+
+.canord
+{
+	width:10%;
+	height:35px;
+	background-color:pink;
+	text-align:center;
+}
+.main
+{
+	font-size : 20px ;
+	font-family : "verdana" ;
+	text-align : center ;
+	width:200px;
+	border-color:#C71585;
+	
+}
+
+footer.font{
+	color:#52595d;
+}
+a:hover:not(.active)
+	{
+	background-color: #40B5AD;
+	
+	}
+
+
+a.out{
+font-size:22px;
+
+}
+
+
+
+ul{
+	list-style-type:none;
+    background-color:#029c9c;
+	overflow:hidden;
+	width: 100%;
+	margin:0 -7px;
+	padding:0 340px;
+}
+
+li a:hover:not(.active) {
+  background-color: #019191;
+}
+.active{
+        background-color:#029c9c;
+		
+}
+
+
+
+
+
+li a.nav {
+        display:block;
+        text-align:center;
+        padding:10px 20px;
+        text-decoration:none;
+		top:50px;
+		background-color:#029c9c;
+		color:white;
+		font-size:20px;
+		font-weight:900;
+	
+		
+}
+
+
+
+		li{
+float:left;
+}
+h2.ice
+{
+	font-family:"Times New Roman";
+	font-size:45px;
+	text-align:center;
+	color:#088F8F;
+	
+}
+p.right{
+text-align:center;
+font-size:18px;
+color:#52595d;}
+
+h3
+{
+	font-size:28px;
+	text-align:center;
+	color:#8B0000;
+	
+}	
+p.right1{
+text-align:center;
+font-size:28px;
+color:#8B0000;}
+
+
+div.right{
+text-align:center;
+font-size:18px;}
+	
+h1.ice1
+{
+	font-family:"Times New Roman";
+	font-size:40px;
+	text-align:center;
+	
+	
+	
+}	
+	
+
+
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  margin:0px 50px 30px;
+}
+p.nb{
+font-size:20px;}
+
+
+
+
+p.rec{
+	font-size:22px;
+	color:#ff3399;
+	font-style:italic;
+}
+
+p.rec1{
+	font-size:24px;
+	color:#800080;
+	font-style:italic;
+	font-weight:900;
+	text-shadow:2px 2px #ffa6c9;
+}
+.boxes
+{
+	width : 25% ;
+    border : 20px ;
+    padding : 20px ;
+	float : left ;
+	margin : 30px ;
+	background-color : #F0F8FF	;
+    text-align : center ;
+}
+
+	
+	
+.main2
+{
+	font-size : 15px ;
+	font-family : "verdana" ;
+	text-align : center;
+}
+
+
+
+	
